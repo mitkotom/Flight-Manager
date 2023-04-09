@@ -3,6 +3,7 @@ This is a Flight and People Management System project that allows users to creat
 
 ## Contributers
 Dimitar Marinov, Aleksander Kuzlecov, Detelin Radkov, Viktorio Apostolov
+
 Main programmers - Alex and Dimitar
 Presentation - Viktorio and Detelin
 
