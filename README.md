@@ -5,7 +5,8 @@ This is a Flight and People Management System project that allows users to creat
 Dimitar Marinov, Aleksander Kuzlecov, Detelin Radkov, Viktorio Apostolov
 
 Main programmers - Alex and Dimitar
-Presentation - Viktorio and Detelin
+
+Presentation - Viktorio and Detelin 
 
 ## How to run the project
 To run the project, you will need to follow these steps:
