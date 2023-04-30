@@ -1,3 +1,4 @@
+Original workplace - https://github.com/AISEXXXD/Flight-Manager
 # Flight and People Management System
 This is a Flight and People Management System project that allows users to create flights and manage people. It supports the registration of new users and has second verification. The project is implemented using the MVC architecture and written in C# and HTML.
 
